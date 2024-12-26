@@ -675,7 +675,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-26 03:10:24 +0000",
-      "minecraft:spider": "2024-12-26 04:39:37 +0000"
+      "minecraft:spider": "2024-12-26 04:39:37 +0000",
+      "minecraft:creeper": "2024-12-26 20:10:02 +0000"
     },
     "done": false
   },
@@ -1084,6 +1085,18 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-12-26 05:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-26 20:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-26 20:10:03 +0000"
     },
     "done": true
   },
