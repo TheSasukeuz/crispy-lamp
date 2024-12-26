@@ -90,3 +90,16 @@ java.lang.RuntimeException: Failed to create version specific server accessor
 [02:52:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Freddy1447 (64a054c9-08f5-3b6d-abbd-2d0f08a49d61) successfully connected to voice chat
 [02:54:44] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
 [02:54:44] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
+[03:03:15] [Server thread/INFO]: Freddy1447 issued server command: /time set day
+[03:03:15] [Server thread/INFO]: [Freddy1447: Set the time to 1000]
+[03:04:14] [Async Chat Thread - #0/INFO]: [Not Secure] <Freddy1447> oye donde estas
+[03:04:46] [Server thread/INFO]: Narutouz201107 issued server command: /locate poi minecraft:farmer
+[03:05:07] [Server thread/INFO]: Narutouz201107 issued server command: /locate structure minecraft:village_plains
+[03:05:08] [Server thread/INFO]: Locating element minecraft:village_plains took 1513 ms
+[03:05:12] [Server thread/INFO]: Narutouz201107 issued server command: /tp @s -1264 ~ -144
+[03:05:12] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to -1263.500000, 89.000000, -143.500000]
+[03:05:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2766ms or 55 ticks behind
+[03:05:20] [Server thread/INFO]: Freddy1447 issued server command: /tp Narutouz201107
+[03:05:20] [Server thread/INFO]: [Freddy1447: Teleported Freddy1447 to Narutouz201107]
+[03:05:21] [Server thread/INFO]: Narutouz201107 issued server command: /tp Freddy1447 Narutouz201107
+[03:05:21] [Server thread/INFO]: [Narutouz201107: Teleported Freddy1447 to Narutouz201107]
