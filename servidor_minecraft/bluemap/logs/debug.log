@@ -1,0 +1,4 @@
+[2024-12-26 00:05:07][WARNING] BlueMap is missing important resources!
+[2024-12-26 00:05:07][WARNING] You must accept the required file download in order for BlueMap to work!
+[2024-12-26 00:05:07][WARNING] Please check: /workspaces/crispy-lamp/servidor_minecraft/plugins/BlueMap/core.conf
+[2024-12-26 00:05:07][INFO] If you have changed the config you can simply reload the plugin using: /bluemap reload
