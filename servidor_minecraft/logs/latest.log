@@ -136,3 +136,26 @@ Reason: Banned by an operator.
 [22:01:02] [Server thread/INFO]: [Narutouz201107: Unbanned Freddy1447]
 [22:03:59] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
 [22:03:59] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[22:05:01] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
+[22:05:01] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
+[22:08:36] [User Authenticator #3/INFO]: UUID of player Freddy1447 is 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
+[22:08:38] [Server thread/INFO]: Freddy1447 joined the game
+[22:08:38] [Server thread/INFO]: Freddy1447[/192.168.195.108:50979] logged in with entity id 6034 at ([world]-1297.7760144423066, 70.0, 140.61237785025952)
+[22:08:41] [Server thread/INFO]: [voicechat] Received secret request of Freddy1447 (18)
+[22:08:41] [Server thread/INFO]: [voicechat] Sent secret to Freddy1447
+[22:08:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
+[22:08:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
+[22:08:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Freddy1447 (64a054c9-08f5-3b6d-abbd-2d0f08a49d61) successfully connected to voice chat
+[22:08:48] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
+[22:08:48] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[22:11:00] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
+[22:11:00] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
+[22:11:07] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
+[22:11:07] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[22:11:53] [Server thread/INFO]: Narutouz201107 hit the ground too hard
+[22:11:58] [Server thread/INFO]: Narutouz201107 issued server command: /tp Freddy1447
+[22:11:58] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to Freddy1447]
+[22:12:44] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
+[22:12:44] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
+[22:14:50] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
+[22:14:50] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
