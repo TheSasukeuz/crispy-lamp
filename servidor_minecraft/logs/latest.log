@@ -108,3 +108,17 @@ java.lang.RuntimeException: Failed to create version specific server accessor
 [21:42:04] [Server thread/INFO]: [Narutouz201107: Set the weather to clear]
 [21:43:37] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
 [21:43:37] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
+[21:45:50] [User Authenticator #1/INFO]: UUID of player Freddy1447 is 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
+[21:45:55] [Server thread/INFO]: Freddy1447 joined the game
+[21:45:55] [Server thread/INFO]: Freddy1447[/192.168.195.108:50883] logged in with entity id 2067 at ([world]-1305.1568510115014, 125.33124076128266, 141.1702579252119)
+[21:46:07] [Server thread/INFO]: [voicechat] Received secret request of Freddy1447 (18)
+[21:46:07] [Server thread/INFO]: [voicechat] Sent secret to Freddy1447
+[21:46:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
+[21:46:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
+[21:46:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Freddy1447 (64a054c9-08f5-3b6d-abbd-2d0f08a49d61) successfully connected to voice chat
+[21:51:01] [Server thread/INFO]: Narutouz201107 issued server command: /tp 3e4e9afe-8247-4439-86ed-1f7e3dc5d438 Narutouz201107
+[21:51:01] [Server thread/INFO]: [Narutouz201107: Teleported a to Narutouz201107]
+[21:52:20] [Server thread/INFO]: Named entity Zombie['a'/1985, uuid='3e4e9afe-8247-4439-86ed-1f7e3dc5d438', l='ServerLevel[world]', x=-1355.32, y=69.00, z=-16.70, cpos=[-85, -2], tl=8223, v=true] died: a burned to death
+[21:53:25] [Server thread/INFO]: Narutouz201107 issued server command: /tp 3e4e9afe-8247-4439-86ed-1f7e3dc5d438
+[21:54:37] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
+[21:54:37] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
