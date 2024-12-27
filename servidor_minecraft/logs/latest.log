@@ -122,3 +122,10 @@ java.lang.RuntimeException: Failed to create version specific server accessor
 [00:56:29] [Server thread/INFO]: Narutouz201107 has made the advancement [Tactical Fishing]
 [00:58:00] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
 [00:58:00] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
+[01:03:32] [Server thread/INFO]: Narutouz201107 issued server command: /tp adcbe3db-fec7-4c6e-b50a-25cff6eb7a81 Narutouz201107
+[01:03:32] [Server thread/INFO]: [Narutouz201107: Teleported Fisherman to Narutouz201107]
+[01:07:07] [Server thread/INFO]: Freddy1447 has made the advancement [Not Today, Thank You]
+[01:07:16] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
+[01:07:16] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
+[01:07:47] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
+[01:07:47] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
