@@ -1,61 +1,57 @@
-[01:43:52] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[01:43:52] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[01:43:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:43:52] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/worldedit-bukkit-7.3.10-beta-01.jar'...
-[01:43:55] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/worldedit-bukkit-7.3.10-beta-01.jar' in 2929ms.
-[01:43:55] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[01:43:55] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[21:34:34] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[21:34:34] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[21:34:35] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:34:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[21:34:36] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - Minepacks (2.4.31.4-T20240629215752)
-[01:43:55] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+[21:34:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
  - Chunky (1.4.28), DamageIndicator (2.1.3), ImageFrame (1.7.9.0), SetHome (6.2.3), WorldEdit (7.3.10-beta-01+cb9fd58), voicechat (2.5.25)
-[01:44:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:44:02] [ServerMain/INFO]: Loaded 1290 recipes
-[01:44:02] [ServerMain/INFO]: Loaded 1399 advancements
-[01:44:02] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:44:02] [Server thread/INFO]: Loading properties
-[01:44:02] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[01:44:03] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:44:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:44:03] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:44:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[01:44:04] [Server thread/INFO]: Default game type: SURVIVAL
-[01:44:04] [Server thread/INFO]: Generating keypair
-[01:44:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:44:04] [Server thread/INFO]: Using epoll channel type
-[01:44:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:44:04] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:44:04] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
-[01:44:04] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.7.9.0
-[01:44:04] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10-beta-01+cb9fd58
-[01:44:06] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5e00db6]
-[01:44:06] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
-[01:44:06] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
-[01:44:06] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.1.3
-[01:44:06] [Server thread/INFO]: [Minepacks] Loading server plugin Minepacks v2.4.31.4-T20240629215752
-[01:44:06] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.25
-[01:44:06] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
-[01:44:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:44:06] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10-beta-01+cb9fd58
-[01:44:06] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[01:44:06] [Server thread/INFO]: WEPIF: Updated config file
-[01:44:06] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[01:44:07] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
-[01:44:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:44:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:44:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:44:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:44:08] [Server thread/INFO]: Preparing level "world"
-[01:44:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:44:10] [Server thread/INFO]: Time elapsed: 1029 ms
-[01:44:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:44:10] [Server thread/INFO]: Time elapsed: 169 ms
-[01:44:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:44:11] [Server thread/INFO]: Time elapsed: 124 ms
-[01:44:11] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.7.9.0
-[01:44:11] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
-[01:44:11] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
-[01:44:11] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.1.3
-[01:44:11] [Server thread/ERROR]: Error occurred while enabling DamageIndicator v2.1.3 (Is it up to date?)
+[21:34:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:34:43] [ServerMain/INFO]: Loaded 1290 recipes
+[21:34:43] [ServerMain/INFO]: Loaded 1399 advancements
+[21:34:44] [Server thread/INFO]: Starting minecraft server version 1.21
+[21:34:44] [Server thread/INFO]: Loading properties
+[21:34:44] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[21:34:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:34:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:34:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:34:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[21:34:45] [Server thread/INFO]: Default game type: SURVIVAL
+[21:34:45] [Server thread/INFO]: Generating keypair
+[21:34:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:34:45] [Server thread/INFO]: Using epoll channel type
+[21:34:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:34:45] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:34:46] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[21:34:46] [Server thread/INFO]: [ImageFrame] Loading server plugin ImageFrame v1.7.9.0
+[21:34:46] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10-beta-01+cb9fd58
+[21:34:48] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3bdef9f0]
+[21:34:48] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[21:34:48] [Server thread/INFO]: [DamageIndicator] Loading server plugin DamageIndicator v2.1.3
+[21:34:48] [Server thread/INFO]: [Minepacks] Loading server plugin Minepacks v2.4.31.4-T20240629215752
+[21:34:48] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.25
+[21:34:48] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
+[21:34:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:34:48] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10-beta-01+cb9fd58
+[21:34:48] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:34:49] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:34:50] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[21:34:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:34:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:34:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:34:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:34:51] [Server thread/INFO]: Preparing level "world"
+[21:34:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:34:54] [Server thread/INFO]: Time elapsed: 1205 ms
+[21:34:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:34:54] [Server thread/INFO]: Time elapsed: 539 ms
+[21:34:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:34:54] [Server thread/INFO]: Time elapsed: 135 ms
+[21:34:54] [Server thread/INFO]: [ImageFrame] Enabling ImageFrame v1.7.9.0
+[21:34:56] [Server thread/INFO]: [ImageFrame] ImageFrame has been Enabled!
+[21:34:56] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[21:34:56] [Server thread/INFO]: [DamageIndicator] Enabling DamageIndicator v2.1.3
+[21:34:56] [Server thread/ERROR]: Error occurred while enabling DamageIndicator v2.1.3 (Is it up to date?)
 java.lang.RuntimeException: Failed to create version specific server accessor
 	at DamageIndicator.jar/io.github.magiccheese1.damageindicator.DamageIndicatorImpl.onEnable(DamageIndicatorImpl.java:79) ~[DamageIndicator.jar:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
@@ -70,509 +66,45 @@ java.lang.RuntimeException: Failed to create version specific server accessor
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[01:44:11] [Server thread/INFO]: [DamageIndicator] Disabling DamageIndicator v2.1.3
-[01:44:11] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.31.4-T20240629215752
-[01:44:11] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
-[01:44:11] [Server thread/INFO]: [Minepacks] Config file successfully loaded.
-[01:44:12] [Server thread/WARN]: [Minepacks] Paper support is experimental! Use at your own risk!
-[01:44:12] [Server thread/WARN]: [Minepacks] No guarantee for data integrity! Backup constantly!
-[01:44:12] [Server thread/INFO]: [Minepacks] Language file successfully loaded. Language: english  Author: GeorgH93
-[01:44:12] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
-[01:44:12] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
-[01:44:12] [Server thread/INFO]: [Minepacks] Item name language file successfully loaded. Language: english  Author: GeorgH93
-[01:44:12] [Server thread/INFO]: [Minepacks] Loading item translations ...
-[01:44:12] [Server thread/INFO]: [Minepacks] Finished loading item translations for 826 items.
-[01:44:12] [Server thread/INFO]: [Minepacks]  Minepacks has been enabled!  :) 
-[01:44:12] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.25
-[01:44:12] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21-R0.1
-[01:44:12] [Server thread/INFO]: [voicechat] Compatibility version 18
-[01:44:13] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[01:44:13] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
-[01:44:13] [Server thread/INFO]: [spark] Starting background profiler...
-[01:44:13] [Server thread/INFO]: Done preparing level "world" (4.930s)
-[01:44:13] [Server thread/INFO]: Running delayed init tasks
-[01:44:13] [Server thread/INFO]: Done (22.270s)! For help, type "help"
-[01:44:13] [Server thread/INFO]: Timings Reset
-[01:44:13] [Craft Scheduler Thread - 2 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
-[01:44:13] [Server thread/INFO]: [voicechat] Loading plugins
-[01:44:13] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[01:44:13] [Server thread/INFO]: [voicechat] Initializing plugins
-[01:44:13] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[01:44:13] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[01:44:13] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 192.168.195.96:24454
-[01:44:26] [User Authenticator #0/INFO]: UUID of player Freddy1447 is 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
-[01:44:28] [Server thread/INFO]: Freddy1447 joined the game
-[01:44:28] [Server thread/INFO]: Freddy1447[/192.168.195.108:63812] logged in with entity id 19 at ([world]-1275.534443548603, 70.9375, -63.34593044620958)
-[01:44:29] [Server thread/INFO]: [voicechat] Received secret request of Freddy1447 (18)
-[01:44:29] [Server thread/INFO]: [voicechat] Sent secret to Freddy1447
-[01:44:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
-[01:44:31] [User Authenticator #0/INFO]: UUID of player Narutouz201107 is bf672c44-8162-3596-925c-db4621d87093
-[01:44:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
-[01:44:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Freddy1447 (64a054c9-08f5-3b6d-abbd-2d0f08a49d61) successfully connected to voice chat
-[01:44:31] [Server thread/INFO]: Narutouz201107 joined the game
-[01:44:31] [Server thread/INFO]: Narutouz201107[/192.168.195.27:55269] logged in with entity id 189 at ([world]-1354.8371585825196, 69.26340053367375, -59.964640751263715)
-[01:44:31] [Server thread/INFO]: [voicechat] Received secret request of Narutouz201107 (18)
-[01:44:31] [Server thread/INFO]: [voicechat] Sent secret to Narutouz201107
-[01:44:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bf672c44-8162-3596-925c-db4621d87093
-[01:44:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bf672c44-8162-3596-925c-db4621d87093
-[01:44:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Narutouz201107 (bf672c44-8162-3596-925c-db4621d87093) successfully connected to voice chat
-[01:46:34] [Server thread/INFO]: Narutouz201107 issued server command: //replace dirt
-[01:47:22] [Server thread/INFO]: Freddy1447 issued server command: /time set day
-[01:47:22] [Server thread/INFO]: [Freddy1447: Set the time to 1000]
-[01:48:31] [Server thread/INFO]: Narutouz201107 issued server command: //set stone
-[01:48:36] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[01:48:36] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[01:49:00] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[01:49:00] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[01:49:42] [Server thread/INFO]: Narutouz201107 issued server command: //set stone
-[01:50:54] [Server thread/INFO]: Narutouz201107 issued server command: //set air
-[01:51:22] [Server thread/INFO]: Narutouz201107 issued server command: //set air
-[01:52:04] [Server thread/INFO]: Narutouz201107 issued server command: //set air
-[01:52:45] [Server thread/INFO]: Narutouz201107 issued server command: //set air
-[01:55:04] [Server thread/INFO]: Narutouz201107 issued server command: /time set ady
-[01:55:08] [Server thread/INFO]: Narutouz201107 issued server command: /weather clear
-[01:55:08] [Server thread/INFO]: [Narutouz201107: Set the weather to clear]
-[01:55:11] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[01:55:11] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[01:56:43] [Server thread/INFO]: Freddy1447 has made the advancement [Hot Stuff]
-[01:57:15] [Server thread/INFO]: Narutouz201107 has made the advancement [Hot Stuff]
-[01:58:33] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[01:58:33] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[01:59:10] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[01:59:10] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[01:59:52] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[01:59:52] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[02:05:05] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[02:05:05] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[02:05:24] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[02:05:24] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[02:05:35] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[02:05:35] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[02:05:43] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[02:05:43] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[02:05:57] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[02:05:57] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[02:06:01] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[02:06:01] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[02:06:03] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[02:06:03] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[02:06:13] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[02:06:13] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[02:07:55] [Server thread/INFO]: Freddy1447 issued server command: /time set night
-[02:07:55] [Server thread/INFO]: [Freddy1447: Set the time to 13000]
-[02:08:21] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[02:08:21] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[02:08:29] [Server thread/INFO]: Freddy1447 issued server command: /time set night
-[02:08:29] [Server thread/INFO]: [Freddy1447: Set the time to 13000]
-[02:08:55] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[02:08:55] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[02:09:02] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[02:09:02] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[02:09:53] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[02:09:53] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[02:10:31] [Server thread/INFO]: Narutouz201107 issued server command: /kill 18249e5d-11a2-476d-841d-b9aa00768210
-[02:10:31] [Server thread/INFO]: [Narutouz201107: Killed Zombie]
-[02:11:03] [Server thread/INFO]: Narutouz201107 issued server command: /kill 8334db0e-2d2b-43f9-b9e9-185bd536789e
-[02:11:03] [Server thread/INFO]: [Narutouz201107: Killed Zombie]
-[02:11:25] [Server thread/INFO]: Villager Villager['Villager'/3396, uuid='e457139f-dc03-48cf-bd43-bd0455eb9174', l='ServerLevel[world]', x=-1288.34, y=71.00, z=-64.30, cpos=[-81, -5], tl=4662, v=true] died, message: 'Villager was slain by Zombie'
-[02:11:27] [Server thread/INFO]: Villager Villager['Villager'/3391, uuid='1b9cb956-eae0-4a06-afef-e9e442d6054c', l='ServerLevel[world]', x=-1288.69, y=71.00, z=-64.90, cpos=[-81, -5], tl=4772, v=true] died, message: 'Villager was slain by Zombie'
-[02:11:31] [Server thread/INFO]: Villager Villager['Villager'/3393, uuid='3fc443eb-20ec-4313-bdcd-f74001cd2e76', l='ServerLevel[world]', x=-1288.30, y=71.00, z=-66.70, cpos=[-81, -5], tl=4819, v=true] died, message: 'Villager was slain by Zombie'
-[02:13:20] [Server thread/INFO]: Villager Villager['Villager'/4047, uuid='f17d6f80-998b-4971-8e45-ad75b07fbfad', l='ServerLevel[world]', x=-1286.53, y=71.56, z=-64.53, cpos=[-81, -5], tl=191, v=true] died, message: 'Villager suffocated in a wall'
-[02:13:36] [Server thread/INFO]: Villager Villager['Villager'/4080, uuid='80cfe257-e9aa-4d80-98e7-e6b7e13cd52a', l='ServerLevel[world]', x=-1286.30, y=71.56, z=-64.30, cpos=[-81, -5], tl=191, v=true] died, message: 'Villager suffocated in a wall'
-[02:13:49] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[02:13:49] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[02:14:47] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[02:14:47] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[02:15:34] [Server thread/INFO]: Villager Villager['Villager'/4112, uuid='62140048-4e97-4abc-8ecb-b57c944461fc', l='ServerLevel[world]', x=-1288.30, y=71.00, z=-66.44, cpos=[-81, -5], tl=2241, v=true] died, message: 'Villager was slain by Freddy1447'
-[02:15:37] [Server thread/INFO]: Villager Villager['Villager'/4084, uuid='633bfe5a-9b1a-4421-8d0a-38aac6304347', l='ServerLevel[world]', x=-1288.70, y=71.00, z=-64.88, cpos=[-81, -5], tl=2570, v=true] died, message: 'Villager was slain by Freddy1447'
-[02:15:39] [Server thread/INFO]: Villager Villager['Villager'/4054, uuid='9a58af0c-637e-4846-bfe9-2a2d46032b19', l='ServerLevel[world]', x=-1288.70, y=71.00, z=-65.75, cpos=[-81, -5], tl=2909, v=true] died, message: 'Villager was slain by Freddy1447'
-[02:15:40] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[02:15:40] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[02:15:40] [Server thread/INFO]: Villager Villager['Villager'/4108, uuid='82db7b82-8671-4577-b83b-a4e002a6f99f', l='ServerLevel[world]', x=-1288.70, y=71.00, z=-64.66, cpos=[-81, -5], tl=2405, v=true] died, message: 'Villager was slain by Freddy1447'
-[02:15:55] [Server thread/INFO]: Villager Villager['Villager'/4063, uuid='8302aa73-eedc-402c-aed9-623ef84b9c33', l='ServerLevel[world]', x=-1282.31, y=59.88, z=-67.54, cpos=[-81, -5], tl=3115, v=true] died, message: 'Villager burned to death'
-[02:15:59] [Server thread/INFO]: Villager Villager['Villager'/4097, uuid='f0b204e1-0b69-490b-8006-5fffcd69a645', l='ServerLevel[world]', x=-1282.51, y=59.88, z=-67.87, cpos=[-81, -5], tl=2911, v=true] died, message: 'Villager burned to death'
-[02:16:01] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[02:16:01] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[02:16:08] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[02:16:08] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[02:16:13] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[02:16:13] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[02:19:07] [Server thread/INFO]: Narutouz201107 issued server command: /weather clear
-[02:19:07] [Server thread/INFO]: [Narutouz201107: Set the weather to clear]
-[02:20:57] [Server thread/INFO]: Villager Villager['Villager'/4625, uuid='6f770e5a-1039-45f7-aabd-93024191b57a', l='ServerLevel[world]', x=-1280.50, y=61.80, z=-65.51, cpos=[-81, -5], tl=3617, v=true] died, message: 'Villager tried to swim in lava to escape Freddy1447'
-[02:24:34] [Server thread/INFO]: Freddy1447 issued server command: /time set day
-[02:24:34] [Server thread/INFO]: [Freddy1447: Set the time to 1000]
-[02:25:56] [Server thread/INFO]: Freddy1447 lost connection: Disconnected
-[02:25:56] [Server thread/INFO]: [voicechat] Disconnecting client Freddy1447
-[02:25:56] [Server thread/INFO]: Freddy1447 left the game
-[02:26:35] [User Authenticator #1/INFO]: UUID of player Freddy1447 is 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
-[02:26:36] [Server thread/INFO]: Freddy1447 joined the game
-[02:26:36] [Server thread/INFO]: Freddy1447[/192.168.195.108:64013] logged in with entity id 6598 at ([world]-1296.7705673179212, 63.39630822134491, 142.91889038551702)
-[02:26:36] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:26:36] [Server thread/INFO]: [voicechat] Received secret request of Freddy1447 (18)
-[02:26:36] [Server thread/INFO]: [voicechat] Sent secret to Freddy1447
-[02:26:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
-[02:26:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
-[02:26:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Freddy1447 (64a054c9-08f5-3b6d-abbd-2d0f08a49d61) successfully connected to voice chat
-[02:27:23] [Server thread/INFO]: Narutouz201107 issued server command: /tp Freddy1447
-[02:27:23] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to Freddy1447]
-[02:32:53] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[02:32:53] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[02:33:11] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[02:33:11] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[02:34:14] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[02:34:14] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[02:37:29] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[02:37:29] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[02:37:52] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[02:37:52] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[02:39:38] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[02:39:38] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[02:39:40] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[02:39:40] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[02:43:52] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[02:43:52] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[02:44:37] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[02:44:37] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[02:44:40] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[02:44:40] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[02:48:35] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[02:48:35] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[02:48:37] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[02:48:37] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[02:49:03] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[02:49:03] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[02:49:10] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[02:49:10] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[02:49:48] [Server thread/INFO]: Freddy1447 fell from a high place
-[02:50:10] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[02:50:10] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[02:50:34] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[02:50:34] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[02:50:53] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[02:50:53] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[02:51:00] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[02:51:00] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[02:51:01] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[02:51:01] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[02:51:05] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[02:51:05] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[02:53:37] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[02:53:37] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[02:54:34] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[02:54:34] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[02:54:54] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[02:54:54] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[02:55:51] [Server thread/INFO]: Narutouz201107 issued server command: /tp Freddy1447
-[02:55:51] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to Freddy1447]
-[02:57:22] [Server thread/INFO]: Narutouz201107 issued server command: //set cobblestone
-[02:57:40] [Server thread/INFO]: Narutouz201107 issued server command: //redo
-[03:03:41] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[03:03:41] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[03:06:25] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:06:53] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:07:17] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:07:46] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:08:12] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:08:59] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:09:53] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:10:21] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:11:08] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:11:30] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:12:59] [Server thread/INFO]: Narutouz201107 issued server command: /tp Freddy1447
-[03:12:59] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to Freddy1447]
-[03:14:28] [Server thread/INFO]: Freddy1447 issued server command: /time set day
-[03:14:28] [Server thread/INFO]: [Freddy1447: Set the time to 1000]
-[03:19:21] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:20:41] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[03:20:41] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[03:20:51] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[03:20:51] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[03:20:55] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[03:20:55] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[03:21:11] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[03:21:11] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[03:21:29] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:22:10] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:22:39] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:22:57] [Server thread/INFO]: Freddy1447 issued server command: //set cobblestone
-[03:24:18] [Async Chat Thread - #0/INFO]: [Not Secure] <Narutouz201107> dirt
-[03:24:23] [Server thread/INFO]: Freddy1447 issued server command: //set dirt
-[03:24:30] [Server thread/INFO]: Narutouz201107 issued server command: /time set day\
-[03:24:34] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[03:24:34] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[03:26:08] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[03:26:08] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[03:26:10] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[03:26:10] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[03:27:17] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[03:27:17] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[03:27:20] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[03:27:20] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[03:27:39] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[03:27:39] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[03:27:40] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[03:27:40] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[03:31:10] [Server thread/INFO]: Freddy1447 issued server command: /gamemode spectator
-[03:31:10] [Server thread/INFO]: [Freddy1447: Set own game mode to Spectator Mode]
-[03:31:14] [Server thread/INFO]: Freddy1447 issued server command: /gamemode adventure
-[03:31:14] [Server thread/INFO]: [Freddy1447: Set own game mode to Adventure Mode]
-[03:31:16] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[03:31:16] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[03:32:03] [Server thread/INFO]: Freddy1447 issued server command: /gamemode adventure
-[03:32:03] [Server thread/INFO]: [Freddy1447: Set own game mode to Adventure Mode]
-[03:32:16] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[03:32:16] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[03:32:43] [Server thread/INFO]: Freddy1447 issued server command: /gamemode adventure
-[03:32:43] [Server thread/INFO]: [Freddy1447: Set own game mode to Adventure Mode]
-[03:32:46] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[03:32:46] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[03:34:10] [Server thread/INFO]: Freddy1447 issued server command: /gamemode adventure
-[03:34:10] [Server thread/INFO]: [Freddy1447: Set own game mode to Adventure Mode]
-[03:34:15] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[03:34:15] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[03:34:49] [Server thread/INFO]: Freddy1447 fell from a high place
-[03:35:15] [Server thread/INFO]: Freddy1447 issued server command: /gamemode adventure
-[03:35:15] [Server thread/INFO]: [Freddy1447: Set own game mode to Adventure Mode]
-[03:35:18] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[03:35:18] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[03:36:19] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[03:36:19] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[03:36:50] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[03:36:50] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[03:37:02] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[03:37:02] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[03:37:09] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[03:37:09] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[03:37:34] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[03:37:34] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[03:37:41] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[03:37:41] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[03:37:56] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[03:37:56] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[03:45:56] [Server thread/INFO]: Narutouz201107 issued server command: /time set night
-[03:45:56] [Server thread/INFO]: [Narutouz201107: Set the time to 13000]
-[03:46:52] [Server thread/INFO]: Villager Villager['Villager'/28612, uuid='2e255296-2001-41d6-bb9a-4cf2207e5435', l='ServerLevel[world]', x=-1343.08, y=62.19, z=-90.66, cpos=[-84, -6], tl=4475, v=true] died, message: 'Villager was slain by Zombie'
-[03:47:00] [Server thread/INFO]: Villager Villager['Villager'/28617, uuid='50d02f73-556b-48ac-99db-6094ace57349', l='ServerLevel[world]', x=-1343.68, y=62.19, z=-90.63, cpos=[-84, -6], tl=4620, v=true] died, message: 'Villager was slain by Zombie'
-[03:47:06] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[03:47:06] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[03:47:09] [Server thread/INFO]: Villager Villager['Villager'/28702, uuid='a15ab528-5a3a-4f19-9669-33cdf59f5c60', l='ServerLevel[world]', x=-1359.00, y=62.56, z=-88.29, cpos=[-85, -6], tl=4437, v=true] died, message: 'Villager was slain by Zombie'
-[03:47:18] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[03:47:18] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[03:47:41] [Server thread/INFO]: Narutouz201107 issued server command: /kill
-[03:47:41] [Server thread/INFO]: Narutouz201107 was killed
-[03:47:41] [Server thread/INFO]: [Narutouz201107: Killed Narutouz201107]
-[03:48:26] [Server thread/INFO]: Villager Villager['Villager'/28711, uuid='a17db1ad-468d-498d-a906-e736be8b8211', l='ServerLevel[world]', x=-1360.41, y=62.56, z=-88.29, cpos=[-86, -6], tl=5943, v=true] died, message: 'Villager was slain by Zombie'
-[03:49:25] [Server thread/INFO]: Freddy1447 issued server command: /gamemode adventure
-[03:49:25] [Server thread/INFO]: [Freddy1447: Set own game mode to Adventure Mode]
-[03:49:26] [Server thread/INFO]: Villager Villager['Villager'/28709, uuid='b514ab21-11d0-45b9-91dc-71dd96e13b2a', l='ServerLevel[world]', x=-1360.27, y=62.56, z=-87.96, cpos=[-86, -6], tl=7161, v=true] died, message: 'Villager was slain by Zombie'
-[03:49:29] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[03:49:29] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[03:49:32] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[03:49:32] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[03:50:01] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[03:50:01] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[03:50:08] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[03:50:08] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[03:50:59] [Server thread/INFO]: Villager Villager['Villager'/28633, uuid='116ac05d-6ecc-4854-8197-0430a6364aeb', l='ServerLevel[world]', x=-1344.04, y=62.19, z=-70.17, cpos=[-85, -5], tl=9318, v=true] died, message: 'Villager was slain by Zombie'
-[03:51:46] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[03:51:46] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[03:51:57] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[03:51:57] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[03:53:46] [Server thread/INFO]: Narutouz201107 issued server command: /kill 0a1651bd-cfe8-4f38-a203-67968af519b4
-[03:53:46] [Server thread/INFO]: Villager Villager['Villager'/31682, uuid='0a1651bd-cfe8-4f38-a203-67968af519b4', l='ServerLevel[world]', x=-1342.94, y=62.19, z=-90.72, cpos=[-84, -6], tl=1094, v=true] died, message: 'Villager was killed'
-[03:53:46] [Server thread/INFO]: [Narutouz201107: Killed Villager]
-[03:53:51] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[03:53:51] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[03:54:00] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[03:54:00] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[03:54:14] [Server thread/INFO]: Villager Villager['Villager'/31701, uuid='08b98cc3-dcc6-4864-b3ed-b2e8a54bfc6c', l='ServerLevel[world]', x=-1342.94, y=62.19, z=-90.72, cpos=[-84, -6], tl=1502, v=true] died, message: 'Villager was slain by Narutouz201107'
-[03:55:04] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[03:55:04] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[03:55:13] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[03:55:13] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[03:55:39] [Server thread/INFO]: Narutouz201107 issued server command: /kill
-[03:55:39] [Server thread/INFO]: Narutouz201107 was killed
-[03:55:39] [Server thread/INFO]: [Narutouz201107: Killed Narutouz201107]
-[03:56:21] [Server thread/INFO]: Villager Villager['Villager'/32369, uuid='76086d89-4940-4554-925d-984e8bce5c38', l='ServerLevel[world]', x=-1360.12, y=62.56, z=-88.21, cpos=[-86, -6], tl=1333, v=true] died, message: 'Villager was slain by Zombie'
-[03:56:33] [Server thread/INFO]: Narutouz201107 issued server command: /tp Freddy1447
-[03:56:33] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to Freddy1447]
-[04:02:02] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[04:02:02] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[04:02:14] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[04:02:14] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[04:02:50] [Server thread/INFO]: Villager Villager['Villager'/32426, uuid='be6ec067-4aa9-48d7-b162-f4d2bd5a1ce7', l='ServerLevel[world]', x=-1360.20, y=62.56, z=-88.03, cpos=[-86, -6], tl=2578, v=true] died, message: 'Villager was slain by Zombie'
-[04:03:10] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[04:03:10] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[04:03:22] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[04:03:22] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[04:03:50] [Server thread/INFO]: Villager Villager['Villager'/32378, uuid='47841d66-f0e5-456a-8999-eb7eb3d4432d', l='ServerLevel[world]', x=-1358.42, y=62.19, z=-90.58, cpos=[-85, -6], tl=3994, v=true] died, message: 'Villager was slain by Zombie'
-[04:03:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61 timed out
-[04:03:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Freddy1447
-[04:03:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Freddy1447
-[04:04:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
-[04:04:07] [Server thread/INFO]: Freddy1447 lost connection: Disconnected
-[04:04:07] [Server thread/INFO]: [voicechat] Disconnecting client Freddy1447
-[04:04:07] [Server thread/INFO]: Freddy1447 left the game
-[04:04:13] [Server thread/INFO]: Villager Villager['Villager'/32395, uuid='c717ecdf-5259-4616-b911-be01c1c5e725', l='ServerLevel[world]', x=-1359.50, y=66.78, z=-95.70, cpos=[-85, -6], tl=4407, v=true] died, message: 'Villager was slain by Zombie'
-[04:04:23] [User Authenticator #2/INFO]: UUID of player Freddy1447 is 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
-[04:04:24] [Server thread/INFO]: Freddy1447 joined the game
-[04:04:24] [Server thread/INFO]: Freddy1447[/192.168.195.108:64402] logged in with entity id 34846 at ([world]-1293.3750153873873, 95.0, 142.13740034375368)
-[04:04:24] [Server thread/INFO]: [voicechat] Received secret request of Freddy1447 (18)
-[04:04:24] [Server thread/INFO]: [voicechat] Sent secret to Freddy1447
-[04:04:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
-[04:04:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 64a054c9-08f5-3b6d-abbd-2d0f08a49d61
-[04:04:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Freddy1447 (64a054c9-08f5-3b6d-abbd-2d0f08a49d61) successfully connected to voice chat
-[04:06:31] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[04:06:31] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[04:06:52] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[04:06:52] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[04:08:13] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[04:08:13] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[04:08:31] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[04:08:31] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[04:08:47] [Server thread/INFO]: Narutouz201107 lost connection: Disconnected
-[04:08:47] [Server thread/INFO]: [voicechat] Disconnecting client Narutouz201107
-[04:08:47] [Server thread/INFO]: Narutouz201107 left the game
-[04:08:58] [User Authenticator #3/INFO]: UUID of player Narutouz201107 is bf672c44-8162-3596-925c-db4621d87093
-[04:08:58] [Server thread/INFO]: Narutouz201107 joined the game
-[04:08:59] [Server thread/INFO]: Narutouz201107[/192.168.195.27:57307] logged in with entity id 36056 at ([world]-1354.154920848361, 37.0, -79.30000001192093)
-[04:08:59] [Server thread/INFO]: [voicechat] Received secret request of Narutouz201107 (18)
-[04:08:59] [Server thread/INFO]: [voicechat] Sent secret to Narutouz201107
-[04:08:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bf672c44-8162-3596-925c-db4621d87093
-[04:09:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bf672c44-8162-3596-925c-db4621d87093
-[04:09:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Narutouz201107 (bf672c44-8162-3596-925c-db4621d87093) successfully connected to voice chat
-[04:10:37] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[04:10:37] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[04:10:54] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[04:10:54] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[04:10:59] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[04:10:59] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[04:16:27] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode spectator
-[04:16:27] [Server thread/INFO]: [Narutouz201107: Set own game mode to Spectator Mode]
-[04:16:42] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[04:16:42] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[04:21:20] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[04:21:20] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[04:25:29] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[04:25:29] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[04:30:52] [Server thread/INFO]: Narutouz201107 issued server command: /tp Freddy1447
-[04:30:52] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to Freddy1447]
-[04:32:30] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[04:32:30] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[04:32:40] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[04:32:40] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[04:35:07] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[04:35:07] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[04:40:36] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[04:40:36] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[04:40:52] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[04:40:52] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[04:43:15] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[04:43:15] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[04:43:29] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[04:43:29] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[04:50:05] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[04:50:05] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[04:50:21] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[04:50:21] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[04:55:52] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[04:55:52] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[04:56:27] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[04:56:27] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[04:57:47] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[04:57:47] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[04:58:06] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[04:58:06] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[05:00:33] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[05:00:33] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[05:01:07] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[05:01:07] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[05:01:11] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[05:01:11] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[05:01:35] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[05:01:35] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[05:01:51] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[05:01:51] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[05:01:56] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[05:01:56] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[05:02:01] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[05:02:01] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[05:02:04] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[05:02:04] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[05:02:50] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[05:02:50] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[05:03:01] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[05:03:01] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[05:03:20] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[05:03:20] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[05:03:36] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[05:03:36] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[05:03:59] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[05:03:59] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[05:06:34] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[05:06:34] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[05:07:16] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[05:07:16] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[05:07:18] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[05:07:18] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[05:07:37] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[05:07:37] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[05:08:28] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
-[05:08:28] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
-[05:09:09] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
-[05:09:09] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
-[05:12:05] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[05:12:05] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[05:16:36] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[05:16:36] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[05:17:39] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[05:17:39] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[05:17:43] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
-[05:17:43] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
-[05:19:28] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
-[05:19:28] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
-[05:28:33] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
-[05:28:33] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
-[05:29:30] [Server thread/INFO]: Unknown or incomplete command, see below for error
-finish<--[HERE]
-[05:29:31] [Server thread/INFO]: Freddy1447 lost connection: Disconnected
-[05:29:31] [Server thread/INFO]: [voicechat] Disconnecting client Freddy1447
-[05:29:31] [Server thread/INFO]: Freddy1447 left the game
-[05:29:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
-turn off<--[HERE]
-[05:29:43] [Server thread/INFO]: Stopping server
-[05:29:43] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.28
-[05:29:43] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.25
-[05:29:43] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.4-T20240629215752
-[05:29:44] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
-[05:29:44] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
-[05:29:44] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
-[05:29:44] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
-[05:29:44] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.10-beta-01+cb9fd58
-[05:29:44] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[05:29:44] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.7.9.0
-[05:29:44] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
-[05:29:44] [Server thread/INFO]: Saving players
-[05:29:44] [Server thread/INFO]: Narutouz201107 lost connection: Server closed
-[05:29:44] [Server thread/INFO]: Narutouz201107 left the game
-[05:29:44] [Server thread/INFO]: Saving worlds
-[05:29:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Saved 291 block chunks, 250 entity chunks, 0 poi chunks in world 'world' in 0.32s
-[05:29:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[05:29:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[05:29:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[05:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:29:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:34:56] [Server thread/INFO]: [DamageIndicator] Disabling DamageIndicator v2.1.3
+[21:34:56] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.31.4-T20240629215752
+[21:34:56] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[21:34:56] [Server thread/INFO]: [Minepacks] Config file successfully loaded.
+[21:34:56] [Server thread/WARN]: [Minepacks] Paper support is experimental! Use at your own risk!
+[21:34:56] [Server thread/WARN]: [Minepacks] No guarantee for data integrity! Backup constantly!
+[21:34:56] [Server thread/INFO]: [Minepacks] Language file successfully loaded. Language: english  Author: GeorgH93
+[21:34:56] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
+[21:34:57] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
+[21:34:57] [Server thread/INFO]: [Minepacks] Item name language file successfully loaded. Language: english  Author: GeorgH93
+[21:34:57] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[21:34:57] [Server thread/INFO]: [Minepacks] Finished loading item translations for 826 items.
+[21:34:57] [Server thread/INFO]: [Minepacks]  Minepacks has been enabled!  :) 
+[21:34:57] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.25
+[21:34:57] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21-R0.1
+[21:34:57] [Server thread/INFO]: [voicechat] Compatibility version 18
+[21:34:57] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[21:34:57] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
+[21:34:57] [Server thread/INFO]: [spark] Starting background profiler...
+[21:34:58] [Server thread/INFO]: Done preparing level "world" (6.511s)
+[21:34:58] [Server thread/INFO]: Running delayed init tasks
+[21:34:58] [Server thread/INFO]: Done (25.133s)! For help, type "help"
+[21:34:58] [Server thread/INFO]: Timings Reset
+[21:34:58] [Craft Scheduler Thread - 3 - ImageFrame/INFO]: [ImageFrame] Data loading completed! Loaded 0 ImageMaps!
+[21:34:58] [Server thread/INFO]: [voicechat] Loading plugins
+[21:34:58] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[21:34:58] [Server thread/INFO]: [voicechat] Initializing plugins
+[21:34:58] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[21:34:58] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[21:34:58] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 192.168.195.96:24454
+[21:35:27] [User Authenticator #0/INFO]: UUID of player Narutouz201107 is bf672c44-8162-3596-925c-db4621d87093
+[21:35:29] [Server thread/INFO]: Narutouz201107 joined the game
+[21:35:29] [Server thread/INFO]: Narutouz201107[/192.168.195.27:52300] logged in with entity id 19 at ([world]-1296.4169196281644, 148.00683128860348, 146.03139922001395)
+[21:35:30] [Server thread/INFO]: [voicechat] Received secret request of Narutouz201107 (18)
+[21:35:30] [Server thread/INFO]: [voicechat] Sent secret to Narutouz201107
+[21:35:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bf672c44-8162-3596-925c-db4621d87093
+[21:35:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bf672c44-8162-3596-925c-db4621d87093
+[21:35:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Narutouz201107 (bf672c44-8162-3596-925c-db4621d87093) successfully connected to voice chat
+[21:42:04] [Server thread/INFO]: Narutouz201107 issued server command: /weather clear
+[21:42:04] [Server thread/INFO]: [Narutouz201107: Set the weather to clear]
+[21:43:37] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
+[21:43:37] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
