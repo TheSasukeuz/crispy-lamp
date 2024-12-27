@@ -573,7 +573,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-26 03:10:33 +0000",
       "minecraft:spider": "2024-12-26 04:32:19 +0000",
-      "minecraft:zombie": "2024-12-27 01:06:24 +0000"
+      "minecraft:zombie": "2024-12-27 01:06:24 +0000",
+      "minecraft:creeper": "2024-12-27 22:00:10 +0000"
     },
     "done": false
   },
