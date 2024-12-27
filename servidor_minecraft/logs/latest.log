@@ -109,3 +109,16 @@ java.lang.RuntimeException: Failed to create version specific server accessor
 [00:40:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Narutouz201107 (bf672c44-8162-3596-925c-db4621d87093) successfully connected to voice chat
 [00:48:23] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
 [00:48:23] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
+[00:49:51] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
+[00:49:51] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
+[00:51:00] [Server thread/INFO]: Freddy1447 issued server command: /gamemode survival
+[00:51:00] [Server thread/INFO]: [Freddy1447: Set own game mode to Survival Mode]
+[00:51:49] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
+[00:51:49] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
+[00:52:18] [Server thread/INFO]: Narutouz201107 issued server command: /tp b9e31cad-c486-4a88-8dfd-c4467d74cb5e Narutouz201107
+[00:52:18] [Server thread/INFO]: [Narutouz201107: Teleported Fisherman to Narutouz201107]
+[00:52:56] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode survival
+[00:52:56] [Server thread/INFO]: [Narutouz201107: Set own game mode to Survival Mode]
+[00:56:29] [Server thread/INFO]: Narutouz201107 has made the advancement [Tactical Fishing]
+[00:58:00] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
+[00:58:00] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
