@@ -151,3 +151,23 @@ java.lang.RuntimeException: Failed to create version specific server accessor
 [01:18:16] [Server thread/INFO]: Narutouz201107 was slain by Zombie
 [01:18:44] [Server thread/INFO]: Narutouz201107 issued server command: /tp Freddy1447
 [01:18:44] [Server thread/INFO]: [Narutouz201107: Teleported Narutouz201107 to Freddy1447]
+[01:20:57] [Server thread/INFO]: Narutouz201107 issued server command: /gamemode creative
+[01:20:57] [Server thread/INFO]: [Narutouz201107: Set own game mode to Creative Mode]
+[01:23:22] [Server thread/INFO]: Freddy1447 issued server command: /tp -1326 -8 -123
+[01:23:22] [Server thread/INFO]: [Freddy1447: Teleported Freddy1447 to -1325.500000, -8.000000, -122.500000]
+[01:24:56] [Server thread/INFO]: Freddy1447 has made the advancement [Diamonds!]
+[01:25:37] [Server thread/INFO]: Freddy1447 burned to death
+[01:26:49] [Server thread/INFO]: Freddy1447 issued server command: /time set day
+[01:26:49] [Server thread/INFO]: [Freddy1447: Set the time to 1000]
+[01:27:05] [Server thread/INFO]: Freddy1447 issued server command: /gamemode creative
+[01:27:05] [Server thread/INFO]: [Freddy1447: Set own game mode to Creative Mode]
+[01:29:30] [Server thread/INFO]: Villager Villager['Villager'/25726, uuid='9464f63b-bc83-42c6-b016-31827e45159e', l='ServerLevel[world]', x=-1287.17, y=71.00, z=-64.55, cpos=[-81, -5], tl=608, v=true] died, message: 'Villager was slain by Freddy1447'
+[01:32:24] [Server thread/INFO]: Villager Villager['Villager'/25730, uuid='422c366e-3373-4cd8-8c5c-0396989b7c4f', l='ServerLevel[world]', x=-1286.50, y=71.00, z=-64.62, cpos=[-81, -5], tl=4062, v=true] died, message: 'Villager was slain by Freddy1447'
+[01:32:28] [Server thread/INFO]: Villager Villager['Villager'/25722, uuid='712f2311-1879-4714-855d-6462a7774c2f', l='ServerLevel[world]', x=-1286.93, y=71.00, z=-64.43, cpos=[-81, -5], tl=4195, v=true] died, message: 'Villager was slain by Freddy1447'
+[01:35:12] [Server thread/INFO]: Narutouz201107 issued server command: /fill ~ ~ ~ -1402 64 -8
+[01:35:51] [Server thread/INFO]: Narutouz201107 issued server command: /fill ~ ~ ~ -1402 64 -8 minecraft:air
+[01:36:40] [Server thread/INFO]: Narutouz201107 issued server command: /fill ~ ~ ~ -1402 64 -8 air
+[01:36:48] [Server thread/INFO]: Narutouz201107 issued server command: /fill ~ ~ ~ -1402 64 -8 air
+[01:36:49] [Server thread/INFO]: [Narutouz201107: Successfully filled 12473 block(s)]
+[01:36:59] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
+[01:36:59] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
