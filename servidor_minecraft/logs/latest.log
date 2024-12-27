@@ -171,3 +171,41 @@ java.lang.RuntimeException: Failed to create version specific server accessor
 [01:36:49] [Server thread/INFO]: [Narutouz201107: Successfully filled 12473 block(s)]
 [01:36:59] [Server thread/INFO]: Narutouz201107 issued server command: /time set day
 [01:36:59] [Server thread/INFO]: [Narutouz201107: Set the time to 1000]
+[01:43:21] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[01:43:21] [Server thread/INFO]: Narutouz201107 lost connection: Server is restarting
+[01:43:21] [Server thread/INFO]: [voicechat] Disconnecting client Narutouz201107
+[01:43:21] [Server thread/INFO]: Narutouz201107 left the game
+[01:43:21] [Server thread/INFO]: Freddy1447 lost connection: Server is restarting
+[01:43:21] [Server thread/INFO]: [voicechat] Disconnecting client Freddy1447
+[01:43:21] [Server thread/INFO]: Freddy1447 left the game
+[01:43:22] [Server thread/INFO]: Stopping server
+[01:43:22] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.28
+[01:43:22] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.25
+[01:43:22] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.4-T20240629215752
+[01:43:23] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
+[01:43:23] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
+[01:43:23] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
+[01:43:23] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
+[01:43:23] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.7.9.0
+[01:43:23] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
+[01:43:23] [Server thread/INFO]: Saving players
+[01:43:23] [Server thread/INFO]: Saving worlds
+[01:43:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Saved 336 block chunks, 280 entity chunks, 0 poi chunks in world 'world' in 0.44s
+[01:43:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Saved 190 block chunks, 55 entity chunks, 0 poi chunks in world 'world_nether' in 0.11s
+[01:43:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:43:23] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[01:43:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:43:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:43:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:43:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
