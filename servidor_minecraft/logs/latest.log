@@ -1,34 +1,10 @@
-[00:04:12] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
-[00:04:13] [Server thread/INFO]: Stopping server
-[00:04:13] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.28
-[00:04:13] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.25
-[00:04:13] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.31.5-T20241222133724
-[00:04:14] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
-[00:04:14] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
-[00:04:14] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
-[00:04:14] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
-[00:04:14] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.10-beta-01+cb9fd58
-[00:04:14] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[00:04:14] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.7.9.0
-[00:04:14] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
-[00:04:14] [Server thread/INFO]: Saving players
-[00:04:14] [Server thread/INFO]: Saving worlds
-[00:04:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 3 entity chunks, 0 poi chunks in world 'world' in 0.03s
-[00:04:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[00:04:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[00:04:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[00:04:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:04:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:04:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:04:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:33:59] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[00:33:59] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[00:33:59] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:34:00] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[00:34:00] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - Minepacks (2.4.31.5-T20241222133724)
+[00:34:00] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - Chunky (1.4.28), ImageFrame (1.7.9.0), SetHome (6.2.3), WorldEdit (7.3.10-beta-01+cb9fd58), voicechat (2.5.25)
+[00:34:05] [ServerMain/WARN]: Failed to load eula.txt
+[00:34:05] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
